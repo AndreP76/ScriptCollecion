@@ -19,5 +19,5 @@ This script will set the name of both folders and files to upercase, recursively
 ### UPPERCASE_FILES
 This script has the same behaviour as UPPERCASE_ALL, but ignores folders and subfolders. It also capitalizes it's own name
 
-### Upper_Folders
+### Uppercase_Folders
 This script has the same behaviour as UPPERCASE_ALL, but ignores folders and subfolders.
