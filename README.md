@@ -24,3 +24,9 @@ This script has the same behaviour as UPPERCASE_ALL, but ignores folders and sub
 
 ### makeFolders.bat
 This script creates folders according to a list, defined in a folders.txt file in the same folder this script is run on. It reads the file and creates a folder for each line in the file.
+
+### IndexOn
+This script sets the "Allow this file to have contents indexed" advanced property on all files in a folder and it's subfolders.
+
+### IndexOff
+This script clears the "Allow this file to have contents indexed" advanced property on all files in a folder and it's subfolders.
