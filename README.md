@@ -21,3 +21,6 @@ This script has the same behaviour as UPPERCASE_ALL, but ignores folders and sub
 
 ### Uppercase_Folders
 This script has the same behaviour as UPPERCASE_ALL, but ignores folders and subfolders.
+
+### makeFolders.bat
+This script creates folders according to a list, defined in a folders.txt file in the same folder this script is run on. It reads the file and creates a folder for each line in the file.
